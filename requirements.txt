@@ -1,0 +1,10 @@
+streamlit
+pandas
+finance-datareader
+matplotlib
+openpyxl
+plotly
+beautifulsoup4
+html5lib
+elasticsearch
+elasticsearch-dsl>=8.0.0,<9.0.0
